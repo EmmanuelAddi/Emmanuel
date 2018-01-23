@@ -1,0 +1,82 @@
+body{
+	background-image: url(pictures/Addi.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+p{
+	text-align: center;
+}
+.p1{font-size: 300%; font-family: ani;}
+.p2{text-decoration-style: wavy; text-decoration: line-through;}
+.p3{ font-family: fantasy; font-size: 110%}
+div{text-align: center;}
+
+ul{
+	text-align: right; 
+	padding: 0px;
+    font-size: 150%;
+    background: #669999;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+ul a:hover{background: #ffffff;}
+
+#Home{
+	text-align: center;
+}
+
+#About_Us{
+background-color: white;
+
+}
+
+#Services{
+padding: 0px;
+margin: 0px;
+}
+.f1{background-color: #D0BABA;
+width: 465px;
+height: 200px;
+float: left;
+border: solid;}
+.f2{background-color: #66BABA;
+width: 461px;
+height: 200px;
+float: right;
+border: solid;}
+
+form{text-align: center;}
+footer{background-color: #6D6185;}
+
+   h2 {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+h2:after {
+    display: inline-block;
+    margin: 0 0 8px 20px;
+    height: 3px;
+    content: " ";
+    text-shadow: none;
+    background-color: #999;
+    width: 140px;
+}
+h2:before {
+    display: inline-block;
+    margin: 0 20px 8px 0;
+    height: 3px;
+    content: " ";
+    text-shadow: none;
+    background-color: #999;
+    width: 140px;
+}
+
+h1{
+    padding: 0px;
+    display: inline;
+    
+}
